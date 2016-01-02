@@ -130,6 +130,14 @@ static SRTP_PROTECTION_PROFILE srtp_known_profiles[] = {
      "SRTP_AES128_CM_SHA1_32",
      SRTP_AES128_CM_SHA1_32,
      },
+    {
+     "SRTP_AEAD_AES_128_GCM",
+     SRTP_AEAD_AES_128_GCM
+     },
+    {
+     "SRTP_AEAD_AES_256_GCM",
+     SRTP_AEAD_AES_256_GCM
+     },
 # if 0
     {
      "SRTP_NULL_SHA1_80",
