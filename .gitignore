@@ -4,3 +4,18 @@ apps/CA.pl
 crypto/opensslconf.h
 tools/c_rehash
 
+inc32/
+ms/libeay32.def
+ms/nt.mak
+ms/ntdll.mak
+ms/ssleay32.def
+ms/uptable.asm
+ms/uptable.obj
+ms/version32.rc
+out32dll/
+tmp32dll/
+MINFO
+crypto/buildinf.h
+crypto/opensslconf.h.bak
+configdata.pm
+
